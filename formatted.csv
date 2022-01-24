@@ -1,0 +1,505 @@
+group,variable,value
+Gandabldore,InfoVis,2
+Gandabldore,Stats,3
+Gandabldore,Maths,2
+Gandabldore,Art,5
+Gandabldore,Computer Usage,7
+Gandabldore,Programming,5
+Gandabldore,CG Programming,2
+Gandabldore,HCI Programming,5
+Gandabldore,UX Evaluation,8
+Gandabldore,Communication,9
+Gandabldore,Collaboration,6
+Gandabldore,Code Repository,3
+Appa ,InfoVis,4
+Appa ,Stats,4
+Appa ,Maths,5
+Appa ,Art,4
+Appa ,Computer Usage,6
+Appa ,Programming,7
+Appa ,CG Programming,3
+Appa ,HCI Programming,2
+Appa ,UX Evaluation,8
+Appa ,Communication,10
+Appa ,Collaboration,10
+Appa ,Code Repository,7
+Ravagers,InfoVis,4
+Ravagers,Stats,4
+Ravagers,Maths,6
+Ravagers,Art,2
+Ravagers,Computer Usage,7
+Ravagers,Programming,5
+Ravagers,CG Programming,5
+Ravagers,HCI Programming,5
+Ravagers,UX Evaluation,7
+Ravagers,Communication,10
+Ravagers,Collaboration,9
+Ravagers,Code Repository,5
+Senjougahara,InfoVis,4
+Senjougahara,Stats,5
+Senjougahara,Maths,5
+Senjougahara,Art,6
+Senjougahara,Computer Usage,7
+Senjougahara,Programming,7
+Senjougahara,CG Programming,3
+Senjougahara,HCI Programming,7
+Senjougahara,UX Evaluation,2
+Senjougahara,Communication,8
+Senjougahara,Collaboration,8
+Senjougahara,Code Repository,9
+Björky,InfoVis,6
+Björky,Stats,8
+Björky,Maths,8
+Björky,Art,4
+Björky,Computer Usage,7
+Björky,Programming,7
+Björky,CG Programming,6
+Björky,HCI Programming,6
+Björky,UX Evaluation,7
+Björky,Communication,6
+Björky,Collaboration,8
+Björky,Code Repository,6
+Sthlm,InfoVis,3
+Sthlm,Stats,3
+Sthlm,Maths,3
+Sthlm,Art,2
+Sthlm,Computer Usage,6
+Sthlm,Programming,2
+Sthlm,CG Programming,2
+Sthlm,HCI Programming,3
+Sthlm,UX Evaluation,3
+Sthlm,Communication,9
+Sthlm,Collaboration,8
+Sthlm,Code Repository,3
+Baby Yoda (Grogu),InfoVis,3
+Baby Yoda (Grogu),Stats,6
+Baby Yoda (Grogu),Maths,7
+Baby Yoda (Grogu),Art,6
+Baby Yoda (Grogu),Computer Usage,9
+Baby Yoda (Grogu),Programming,5
+Baby Yoda (Grogu),CG Programming,3
+Baby Yoda (Grogu),HCI Programming,4
+Baby Yoda (Grogu),UX Evaluation,4
+Baby Yoda (Grogu),Communication,9
+Baby Yoda (Grogu),Collaboration,10
+Baby Yoda (Grogu),Code Repository,6
+dorp,InfoVis,1
+dorp,Stats,3
+dorp,Maths,4
+dorp,Art,3
+dorp,Computer Usage,7
+dorp,Programming,5
+dorp,CG Programming,6
+dorp,HCI Programming,3
+dorp,UX Evaluation,2
+dorp,Communication,8
+dorp,Collaboration,8
+dorp,Code Repository,5
+tigerShark,InfoVis,5
+tigerShark,Stats,6
+tigerShark,Maths,5
+tigerShark,Art,5
+tigerShark,Computer Usage,8
+tigerShark,Programming,6
+tigerShark,CG Programming,7
+tigerShark,HCI Programming,5
+tigerShark,UX Evaluation,4
+tigerShark,Communication,8
+tigerShark,Collaboration,6
+tigerShark,Code Repository,7
+PorcupineLover1337,InfoVis,2
+PorcupineLover1337,Stats,6
+PorcupineLover1337,Maths,1
+PorcupineLover1337,Art,7
+PorcupineLover1337,Computer Usage,5
+PorcupineLover1337,Programming,2
+PorcupineLover1337,CG Programming,2
+PorcupineLover1337,HCI Programming,2
+PorcupineLover1337,UX Evaluation,4
+PorcupineLover1337,Communication,8
+PorcupineLover1337,Collaboration,7
+PorcupineLover1337,Code Repository,3
+Neko27,InfoVis,2
+Neko27,Stats,4
+Neko27,Maths,5
+Neko27,Art,7
+Neko27,Computer Usage,7
+Neko27,Programming,3
+Neko27,CG Programming,2
+Neko27,HCI Programming,3
+Neko27,UX Evaluation,7
+Neko27,Communication,4
+Neko27,Collaboration,5
+Neko27,Code Repository,5
+Manama Jeff,InfoVis,3
+Manama Jeff,Stats,3
+Manama Jeff,Maths,3
+Manama Jeff,Art,6
+Manama Jeff,Computer Usage,9
+Manama Jeff,Programming,5
+Manama Jeff,CG Programming,2
+Manama Jeff,HCI Programming,3
+Manama Jeff,UX Evaluation,3
+Manama Jeff,Communication,8
+Manama Jeff,Collaboration,8
+Manama Jeff,Code Repository,4
+wagame,InfoVis,3
+wagame,Stats,2
+wagame,Maths,5
+wagame,Art,7
+wagame,Computer Usage,5
+wagame,Programming,4
+wagame,CG Programming,2
+wagame,HCI Programming,2
+wagame,UX Evaluation,8
+wagame,Communication,9
+wagame,Collaboration,8
+wagame,Code Repository,6
+loooh,InfoVis,3
+loooh,Stats,4
+loooh,Maths,7
+loooh,Art,2
+loooh,Computer Usage,7
+loooh,Programming,6
+loooh,CG Programming,4
+loooh,HCI Programming,3
+loooh,UX Evaluation,2
+loooh,Communication,5
+loooh,Collaboration,5
+loooh,Code Repository,6
+Xiao,InfoVis,5
+Xiao,Stats,8
+Xiao,Maths,8
+Xiao,Art,3
+Xiao,Computer Usage,8
+Xiao,Programming,5
+Xiao,CG Programming,5
+Xiao,HCI Programming,6
+Xiao,UX Evaluation,5
+Xiao,Communication,7
+Xiao,Collaboration,7
+Xiao,Code Repository,9
+C3I2,InfoVis,8
+C3I2,Stats,9
+C3I2,Maths,7
+C3I2,Art,5
+C3I2,Computer Usage,9
+C3I2,Programming,7
+C3I2,CG Programming,6
+C3I2,HCI Programming,5
+C3I2,UX Evaluation,6
+C3I2,Communication,7
+C3I2,Collaboration,6
+C3I2,Code Repository,7
+Anchovy,InfoVis,3
+Anchovy,Stats,4
+Anchovy,Maths,5
+Anchovy,Art,8
+Anchovy,Computer Usage,4
+Anchovy,Programming,7
+Anchovy,CG Programming,5
+Anchovy,HCI Programming,3
+Anchovy,UX Evaluation,4
+Anchovy,Communication,8
+Anchovy,Collaboration,7
+Anchovy,Code Repository,7
+Jaskier,InfoVis,3
+Jaskier,Stats,3
+Jaskier,Maths,6
+Jaskier,Art,8
+Jaskier,Computer Usage,8
+Jaskier,Programming,5
+Jaskier,CG Programming,7
+Jaskier,HCI Programming,6
+Jaskier,UX Evaluation,5
+Jaskier,Communication,9
+Jaskier,Collaboration,9
+Jaskier,Code Repository,4
+SuperstitiousOtter,InfoVis,5
+SuperstitiousOtter,Stats,7
+SuperstitiousOtter,Maths,6
+SuperstitiousOtter,Art,4
+SuperstitiousOtter,Computer Usage,8
+SuperstitiousOtter,Programming,9
+SuperstitiousOtter,CG Programming,5
+SuperstitiousOtter,HCI Programming,6
+SuperstitiousOtter,UX Evaluation,3
+SuperstitiousOtter,Communication,5
+SuperstitiousOtter,Collaboration,7
+SuperstitiousOtter,Code Repository,8
+Chock,InfoVis,5
+Chock,Stats,7
+Chock,Maths,6
+Chock,Art,1
+Chock,Computer Usage,8
+Chock,Programming,7
+Chock,CG Programming,7
+Chock,HCI Programming,7
+Chock,UX Evaluation,7
+Chock,Communication,5
+Chock,Collaboration,7
+Chock,Code Repository,8
+Moony04,InfoVis,6
+Moony04,Stats,6
+Moony04,Maths,7
+Moony04,Art,8
+Moony04,Computer Usage,8
+Moony04,Programming,6
+Moony04,CG Programming,6
+Moony04,HCI Programming,5
+Moony04,UX Evaluation,5
+Moony04,Communication,10
+Moony04,Collaboration,9
+Moony04,Code Repository,8
+sentient_polyhedron,InfoVis,7
+sentient_polyhedron,Stats,4
+sentient_polyhedron,Maths,5
+sentient_polyhedron,Art,2
+sentient_polyhedron,Computer Usage,9
+sentient_polyhedron,Programming,8
+sentient_polyhedron,CG Programming,3
+sentient_polyhedron,HCI Programming,4
+sentient_polyhedron,UX Evaluation,3
+sentient_polyhedron,Communication,7
+sentient_polyhedron,Collaboration,6
+sentient_polyhedron,Code Repository,9
+Rani,InfoVis,1
+Rani,Stats,1
+Rani,Maths,6
+Rani,Art,3
+Rani,Computer Usage,3
+Rani,Programming,6
+Rani,CG Programming,2
+Rani,HCI Programming,1
+Rani,UX Evaluation,1
+Rani,Communication,4
+Rani,Collaboration,4
+Rani,Code Repository,4
+glas444,InfoVis,1
+glas444,Stats,4
+glas444,Maths,5
+glas444,Art,4
+glas444,Computer Usage,9
+glas444,Programming,3
+glas444,CG Programming,1
+glas444,HCI Programming,2
+glas444,UX Evaluation,2
+glas444,Communication,5
+glas444,Collaboration,7
+glas444,Code Repository,4
+fvmlrvgj,InfoVis,3
+fvmlrvgj,Stats,6
+fvmlrvgj,Maths,5
+fvmlrvgj,Art,1
+fvmlrvgj,Computer Usage,7
+fvmlrvgj,Programming,6
+fvmlrvgj,CG Programming,3
+fvmlrvgj,HCI Programming,5
+fvmlrvgj,UX Evaluation,5
+fvmlrvgj,Communication,8
+fvmlrvgj,Collaboration,7
+fvmlrvgj,Code Repository,8
+Supporter24,InfoVis,2
+Supporter24,Stats,3
+Supporter24,Maths,7
+Supporter24,Art,3
+Supporter24,Computer Usage,8
+Supporter24,Programming,8
+Supporter24,CG Programming,7
+Supporter24,HCI Programming,3
+Supporter24,UX Evaluation,3
+Supporter24,Communication,7
+Supporter24,Collaboration,8
+Supporter24,Code Repository,8
+Frog,InfoVis,2
+Frog,Stats,4
+Frog,Maths,5
+Frog,Art,4
+Frog,Computer Usage,7
+Frog,Programming,5
+Frog,CG Programming,5
+Frog,HCI Programming,3
+Frog,UX Evaluation,3
+Frog,Communication,4
+Frog,Collaboration,5
+Frog,Code Repository,4
+ztekzpaden1,InfoVis,1
+ztekzpaden1,Stats,3
+ztekzpaden1,Maths,7
+ztekzpaden1,Art,10
+ztekzpaden1,Computer Usage,6
+ztekzpaden1,Programming,1
+ztekzpaden1,CG Programming,4
+ztekzpaden1,HCI Programming,2
+ztekzpaden1,UX Evaluation,3
+ztekzpaden1,Communication,7
+ztekzpaden1,Collaboration,8
+ztekzpaden1,Code Repository,5
+Aiya12,InfoVis,1
+Aiya12,Stats,3
+Aiya12,Maths,5
+Aiya12,Art,2
+Aiya12,Computer Usage,7
+Aiya12,Programming,4
+Aiya12,CG Programming,1
+Aiya12,HCI Programming,1
+Aiya12,UX Evaluation,3
+Aiya12,Communication,10
+Aiya12,Collaboration,8
+Aiya12,Code Repository,8
+RedMouse,InfoVis,1
+RedMouse,Stats,4
+RedMouse,Maths,4
+RedMouse,Art,10
+RedMouse,Computer Usage,10
+RedMouse,Programming,2
+RedMouse,CG Programming,1
+RedMouse,HCI Programming,4
+RedMouse,UX Evaluation,6
+RedMouse,Communication,8
+RedMouse,Collaboration,10
+RedMouse,Code Repository,2
+Rouy Saila,InfoVis,5
+Rouy Saila,Stats,3
+Rouy Saila,Maths,8
+Rouy Saila,Art,3
+Rouy Saila,Computer Usage,9
+Rouy Saila,Programming,8
+Rouy Saila,CG Programming,5
+Rouy Saila,HCI Programming,4
+Rouy Saila,UX Evaluation,2
+Rouy Saila,Communication,9
+Rouy Saila,Collaboration,5
+Rouy Saila,Code Repository,8
+KusinVitamin,InfoVis,2
+KusinVitamin,Stats,3
+KusinVitamin,Maths,8
+KusinVitamin,Art,8
+KusinVitamin,Computer Usage,8
+KusinVitamin,Programming,7
+KusinVitamin,CG Programming,1
+KusinVitamin,HCI Programming,5
+KusinVitamin,UX Evaluation,5
+KusinVitamin,Communication,8
+KusinVitamin,Collaboration,7
+KusinVitamin,Code Repository,8
+Kpmsd,InfoVis,2
+Kpmsd,Stats,3
+Kpmsd,Maths,7
+Kpmsd,Art,2
+Kpmsd,Computer Usage,8
+Kpmsd,Programming,6
+Kpmsd,CG Programming,3
+Kpmsd,HCI Programming,4
+Kpmsd,UX Evaluation,3
+Kpmsd,Communication,5
+Kpmsd,Collaboration,6
+Kpmsd,Code Repository,6
+Oliver Queen,InfoVis,2
+Oliver Queen,Stats,1
+Oliver Queen,Maths,5
+Oliver Queen,Art,2
+Oliver Queen,Computer Usage,7
+Oliver Queen,Programming,4
+Oliver Queen,CG Programming,3
+Oliver Queen,HCI Programming,3
+Oliver Queen,UX Evaluation,3
+Oliver Queen,Communication,5
+Oliver Queen,Collaboration,5
+Oliver Queen,Code Repository,5
+dez2pacito,InfoVis,3
+dez2pacito,Stats,3
+dez2pacito,Maths,5
+dez2pacito,Art,5
+dez2pacito,Computer Usage,8
+dez2pacito,Programming,6
+dez2pacito,CG Programming,7
+dez2pacito,HCI Programming,4
+dez2pacito,UX Evaluation,3
+dez2pacito,Communication,6
+dez2pacito,Collaboration,6
+dez2pacito,Code Repository,5
+Snowflake,InfoVis,2
+Snowflake,Stats,6
+Snowflake,Maths,7
+Snowflake,Art,5
+Snowflake,Computer Usage,7
+Snowflake,Programming,5
+Snowflake,CG Programming,3
+Snowflake,HCI Programming,5
+Snowflake,UX Evaluation,3
+Snowflake,Communication,8
+Snowflake,Collaboration,8
+Snowflake,Code Repository,3
+CrispyChicken,InfoVis,3
+CrispyChicken,Stats,3
+CrispyChicken,Maths,4
+CrispyChicken,Art,8
+CrispyChicken,Computer Usage,7
+CrispyChicken,Programming,8
+CrispyChicken,CG Programming,8
+CrispyChicken,HCI Programming,5
+CrispyChicken,UX Evaluation,1
+CrispyChicken,Communication,5
+CrispyChicken,Collaboration,5
+CrispyChicken,Code Repository,5
+_no_one_,InfoVis,3
+_no_one_,Stats,1
+_no_one_,Maths,1
+_no_one_,Art,5
+_no_one_,Computer Usage,8
+_no_one_,Programming,4
+_no_one_,CG Programming,1
+_no_one_,HCI Programming,4
+_no_one_,UX Evaluation,3
+_no_one_,Communication,5
+_no_one_,Collaboration,7
+_no_one_,Code Repository,6
+gherkin,InfoVis,3
+gherkin,Stats,3
+gherkin,Maths,4
+gherkin,Art,8
+gherkin,Computer Usage,8
+gherkin,Programming,5
+gherkin,CG Programming,3
+gherkin,HCI Programming,3
+gherkin,UX Evaluation,3
+gherkin,Communication,5
+gherkin,Collaboration,6
+gherkin,Code Repository,6
+XÆA12,InfoVis,1
+XÆA12,Stats,5
+XÆA12,Maths,5
+XÆA12,Art,9
+XÆA12,Computer Usage,9
+XÆA12,Programming,6
+XÆA12,CG Programming,1
+XÆA12,HCI Programming,3
+XÆA12,UX Evaluation,9
+XÆA12,Communication,10
+XÆA12,Collaboration,10
+XÆA12,Code Repository,6
+sofi,InfoVis,3
+sofi,Stats,2
+sofi,Maths,5
+sofi,Art,7
+sofi,Computer Usage,8
+sofi,Programming,8
+sofi,CG Programming,3
+sofi,HCI Programming,4
+sofi,UX Evaluation,6
+sofi,Communication,6
+sofi,Collaboration,8
+sofi,Code Repository,8
+Nier1.2247,InfoVis,2
+Nier1.2247,Stats,4
+Nier1.2247,Maths,6
+Nier1.2247,Art,7
+Nier1.2247,Computer Usage,5
+Nier1.2247,Programming,4
+Nier1.2247,CG Programming,3
+Nier1.2247,HCI Programming,4
+Nier1.2247,UX Evaluation,4
+Nier1.2247,Communication,3
+Nier1.2247,Collaboration,3
+Nier1.2247,Code Repository,5
